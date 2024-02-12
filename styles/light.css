@@ -16,7 +16,7 @@
   --decoration-color: #353430;
   --hover-color: 1px solid rgba(50, 49, 45, 0.5);
   --shadow-text-link: #ff8dcb;
-  --shadow-text-1024px-width:#FF0070;
+  --shadow-text-1024px-width: #ff0070;
   --cover-image: url(../images/cover-image-light.png);
 }
 
@@ -28,18 +28,18 @@
   :root {
     /* Дублируем переменные светлой темы */
     --background-color: #fff1f7;
-  --main-text-color: #353430;
-  --heading-text-color: #ffc2e6;
-  --accent-color: #353430;
-  --text-shadow: #ff8dcb;
-  --heading-text-color-with-background: #000028;
-  --heading-background-color: #ff8dcb;
-  --button-color: #353430;
-  --decoration-color: #353430;
-  --hover-color: 1px solid rgba(50, 49, 45, 0.5);
-  --shadow-text-link: #ff8dcb;
-  --shadow-text-1024px-width:#FF0070;
-  --cover-image: url(../images/cover-image-light.png);
+    --main-text-color: #353430;
+    --heading-text-color: #ffc2e6;
+    --accent-color: #353430;
+    --text-shadow: #ff8dcb;
+    --heading-text-color-with-background: #000028;
+    --heading-background-color: #ff8dcb;
+    --button-color: #353430;
+    --decoration-color: #353430;
+    --hover-color: 1px solid rgba(50, 49, 45, 0.5);
+    --shadow-text-link: #ff8dcb;
+    --shadow-text-1024px-width: #ff0070;
+    --cover-image: url(../images/cover-image-light.png);
   }
 
   .page.theme_light .header__rec {
