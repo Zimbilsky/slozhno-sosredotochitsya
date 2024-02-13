@@ -5,16 +5,17 @@
 */
 
 .page.theme_dark {
-  :root {
-    --background-color: #000028;
-    --main-text-color: #f1b2ce;
-    --heading-text-color: #db00ff;
-    --accent-color: #ff0070;
-    --heading-text-color-with-background: #000028;
-    --heading-background-color: #ff0070;
-    --button-color: #ff0070;
-    --decoration-color: #ff0070;
-    --hover-color: 1px solid rgba(255, 0, 112, 0.5);
-    --cover-image: url(../images/cover-image-dark.png);
-  }
+  --background-color: #000028;
+  --main-text-color: #F1B2CE;
+  --heading-text-color: #DB00FF;
+  --accent-color: #FF0070;
+  --text-shadow: #ff0070;
+  --heading-text-color-with-background: #000028;
+  --heading-background-color: #FF0070;
+  --button-color: #ff0070;
+  --decoration-color: #ff0070;
+  --hover-color: 1px solid rgba(255, 0, 112, 0.5);
+  --shadow-text-link: #FF0070;
+  --shadow-text-1024px-width:#FF0070;
+  --cover-image: url(../images/cover-image-dark.png);
 }
